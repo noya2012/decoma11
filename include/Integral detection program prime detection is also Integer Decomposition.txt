@@ -1,0 +1,22 @@
+This is a new principle of prime number determination and composite number decomposition. The secret of prime number has been solved. I hope it will be helpful to your work.
+在此给各位贴上一种新的素数判定及合数分解原理，希望对阁下的工作有帮助。
+请严格区别于以往的任何一种算法 ，首先 它是2用的。并且它严格基于右边的公式。看起来好像还是质数检验，很不起眼。但是对于关键的子判定的排列组合来说，步骤稍有区别于公式原理，都会导致素数筛产生出错疏漏。不难发现它展示了一个深层的原理。
+Please be strictly different from any previous algorithm. First， It can realize two functions. Decomposition or inspection. And it is strictly based on the formula on the right. It looks as if it is still a prime number test. It's very simple. However, for the arrangement and combination of key sub - decisions, any step slightly different from the formula principle will lead to errors and omissions in the prime sieve. And it shows a deep principle.
+
+
+.
+看起来只是一个判定质数的过程，实际上完全不同，它既能判定也能分解。而复杂度还是O(n)
+这个判定公式经过个人验证有效，看起来毫无可能。但是你照着流程做就可得到结果。它是经典数论猜想，既是问题，也是答案，是分解也是生成，也是演算法。融合一体。请你们帮助验证，它能有效的筛除偶数与奇数合数，在找到素数因子的时候就停止，你也可以稍做修改来分解全部可能的素数因子。在此第一次帖上流程图。基于我所了解它的多个隐藏属性，谨慎的认为，它就是质数的原理。若你能接受它，即可发现这些永恒的秘密。 
+谢谢你的耐心阅读。
+It looks like a process of judging prime numbers, but it is actually completely different. It can be judged as well as decomposed. And complexity is still o ( n ).
+This decision formula is validated by individuals and seems impossible. But you can get results by following the process.
+It is a classical number theory conjecture, both a problem and an answer, a decomposition and generation, and an algorithm. Integration.
+Please help verify that it can effectively screen out even and odd numbers, stop when finding prime factors, and you can also modify it slightly to decompose all possible prime factors. This is the first time to post a flowchart. Personally, 
+Based on the many hidden attributes I know about it, I cautiously believe that it is the principle of prime numbers. If you can accept it, you can find these eternal secrets.
+Thank you for your patience in reading.
+Z 20181005
+
+backup links   early links
+https://zhuanlan.zhihu.com/p/46547499   2018
+https://www.jianshu.com/p/8bed7898b95b   20181012
+https://www.jianshu.com/p/9a832f97f45e
